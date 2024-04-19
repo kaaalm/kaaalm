@@ -58,11 +58,6 @@ img
     padding-bottom: 0%;
 }
 
-.vitreBrisée
-{
-    width: 32%;
-}
-
 .horizontale
 {
     width: 64%;
@@ -75,7 +70,7 @@ img
 
 .horizontaleMael1
 {
-    margin-top: -3.8%;
+    margin-top: -3%;
     width: 52%;
 }
 
@@ -150,6 +145,13 @@ a
     align-items: center;
 }
 
+.double1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .horizontaleDouble
 {
     width: 42%;
@@ -161,6 +163,23 @@ a
     margin-left: 3.2%;
 }
 
+.crop
+{
+    width: 34%;
+}
+
+.piedestal
+{
+    margin-left: 3.2%;
+    width: 34%;
+}
+
+.nuages
+{
+    margin-left: 3.2%;
+    width: 34%;
+}
+
 .longue
 {
     width: 34%;
@@ -168,11 +187,6 @@ a
 
 @media (max-width: 800px) 
 {
-
-.vitreBrisée
-{
-    width: 50%;
-}
 
 .seizedixième
 {
