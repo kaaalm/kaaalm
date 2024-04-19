@@ -73,6 +73,12 @@ img
     width: 78%;
 }
 
+.horizontaleMael1
+{
+    margin-top: -3.8%;
+    width: 52%;
+}
+
 .carrétrange
 {
     width: 48%;
@@ -135,6 +141,24 @@ a
     width: 32%;
     margin-bottom: 0%;
     padding-bottom: 0%;
+}
+
+.double
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.horizontaleDouble
+{
+    width: 42%;
+}
+
+.horizontaleDouble1
+{
+    width: 42%;
+    margin-left: 3.2%;
 }
 
 .longue
