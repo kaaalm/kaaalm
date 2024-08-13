@@ -146,13 +146,6 @@ a
     align-items: center;
 }
 
-.double1
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .horizontaleDouble
 {
     width: 40%;
@@ -172,6 +165,17 @@ a
 .piedestal
 {
     margin-left: 3.2%;
+    width: 32%;
+}
+
+.survol
+{
+    margin-left: 3.2%;
+    width: 32%;
+}
+
+.survol1
+{
     width: 32%;
 }
 
