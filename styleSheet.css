@@ -59,6 +59,11 @@ img
     padding-bottom: 0%;
 }
 
+.lademeure
+{
+    width: 68%;
+}
+
 .horizontale
 {
     width: 62%;
@@ -71,12 +76,12 @@ img
 
 .horizontaleMael
 {
-    width: 76%;
+    width: 77%;
 }
 
 .horizontaleMael1
 {
-    margin-top: -3.2%;
+    margin-top: -3%;
     width: 46%;
 }
 
@@ -153,35 +158,35 @@ a
 
 .horizontaleDouble
 {
-    width: 40%;
+    width: 39%;
 }
 
 .horizontaleDouble1
 {
-    width: 40%;
-    margin-left: 3.2%;
+    width: 39%;
+    margin-left: 1.6%;
 }
 
 .crop
 {
-    width: 30.4%;
+    width: 27.4%;
 }
 
 .piedestal
 {
     margin-left: 3.2%;
-    width: 32%;
+    width: 29%;
 }
 
 .survol
 {
     margin-left: 3.2%;
-    width: 32%;
+    width: 29%;
 }
 
 .survol1
 {
-    width: 30.6%;
+    width: 27.6%;
 }
 
 .longue
@@ -247,9 +252,19 @@ img
     width: 72%;
 }
 
+.horizontaleMael
+{
+    width: 82%;
+}
+
 .horizontaleAraignée
 {
     width: 88%;
+}
+
+.horizontaleMael1
+{
+    margin-top: -5.2%;
 }
 
 .carrétrange
