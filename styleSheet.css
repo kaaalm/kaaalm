@@ -72,7 +72,7 @@ img
 
 .horizontaleAraignée
 {
-    width: 72%;
+    width: 76%;
 }
 
 .horizontaleMael
@@ -115,6 +115,7 @@ img
 
 .back
 {
+    margin-top: -24%;
     font-size: 50%;
 }
 
@@ -141,6 +142,17 @@ a
     padding-top: 0%;
     padding-bottom: 3.6%;
     letter-spacing: -0.5px;
+}
+
+.info1
+{
+    text-align: center;
+    margin: 0%;
+    line-height: 95%;
+    margin-top: -4.94%;
+    padding-bottom: 3.6%;
+    letter-spacing: -0.5px;
+    font-size: 82%;
 }
 
 .autoportrait
@@ -195,8 +207,24 @@ a
     width: 32%;
 }
 
+.vitre
+{
+    width: 48%;
+}
+
 @media (max-width: 800px) 
 {
+
+.back
+{
+    margin-top: -25.6%;
+}
+
+.info1
+{
+    margin-top: -6.8%;
+    font-size: 72%;
+}
 
 .seizedixième
 {
@@ -260,7 +288,7 @@ img
 
 .horizontaleAraignée
 {
-    width: 88%;
+    width: 90%;
 }
 
 .horizontaleMael1
