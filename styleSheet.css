@@ -220,6 +220,11 @@ a
     padding-bottom: 0%;
 }
 
+.titre
+{
+    font-size: 180%;
+}
+
 img
 {
     border: solid black 1.1px;
@@ -266,6 +271,11 @@ img
 .info1
 {
     font-size: 95%;
+}
+
+footer
+{
+    font-size: 110%;
 }
 
 }
