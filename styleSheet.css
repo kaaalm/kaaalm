@@ -203,6 +203,11 @@ a
 @media (max-width: 800px) 
 {
 
+.leoTable
+{
+    font-size: 45%;
+}
+	
 .menu
 {
     margin-right: 2.8%;
