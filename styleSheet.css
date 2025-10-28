@@ -8,7 +8,7 @@ body
     font-family: "loos-extended", sans-serif;
     font-weight: 400;
     font-style: normal;
-    letter-spacing: -2px;
+    letter-spacing: -1.8px;
 }
 
 .box
@@ -17,7 +17,7 @@ body
     justify-content: space-between;
     z-index: 1;
     font-size: 220%;
-    margin-bottom: 2.2%;
+    margin-bottom: 2%;
 }
 
 .name
@@ -31,7 +31,7 @@ body
 {
     text-decoration: none;
     font-size: 130%;
-    line-height: 130%;
+    line-height: 132%;
 }
 
 .menu
@@ -43,11 +43,11 @@ body
 
 footer
 {
-    line-height: 80%;
+    line-height: 82%;
     text-align: center;
     display: flex;
     justify-content: space-around;
-    letter-spacing: -0.5px;
+    letter-spacing: -0.4px;
     margin-top: -1.4%;
     font-size: 130%;
 }
@@ -61,36 +61,38 @@ footer
 img
 {
     border: solid black 1.9px;
-    width: 36%;
-    margin-bottom: 3.80%;
+    width: 34.00%;
+    margin-bottom: 3.50%;
     padding-bottom: 0%;
 }
 
 .horizontale
 {
-    width: 65%;
+    width: 63.00%;
 }
 
 .horizontaleBig
 {
-    width: 75%;
+    width: 73.00%;
 }
 
 .oiseaux
 {
     border: solid black 0.8px;
     margin-left: 2.2%;
-    width: 38%;
+    width: 36.00%;
 }
 
 .carré
 {
-    width: 30%;
+    width: 28.00%;
 }
 
 .images
 {
     text-align: center;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
 }
 
 .back
@@ -109,8 +111,8 @@ a
     text-align: center;
     padding: 3.4%;
     margin: 0%;
-    line-height: 116%;
-    letter-spacing: -0.04px;
+    line-height: 118%;
+    letter-spacing: -0.02px;
     padding-top: 0%;
 }
 
@@ -118,10 +120,10 @@ a
 {
     text-align: center;
     margin: 0%;
-    line-height: 111%;
+    line-height: 114%;
     padding-top: 0%;
     padding-bottom: 3.20%;
-    letter-spacing: -0.5px;
+    letter-spacing: -0.4px;
 }
 
 .info1
@@ -129,20 +131,20 @@ a
     text-align: center;
     margin: 0%;
     font-size: 120%;
-    line-height: 145%;
+    line-height: 148%;
     padding-top: 0%;
     padding-bottom: 2.4%;
-    letter-spacing: -0.45px;
+    letter-spacing: -0.4px;
 }
 
 .leoTable
 {
     text-align: center;
     margin: 0%;
-    font-size: 70%;
+    font-size: 65%;
     padding-top: 0%;
     padding-bottom: 0.20%;
-    letter-spacing: -0.45px;
+    letter-spacing: -0.35px;
 }
 
 .titre
@@ -152,8 +154,8 @@ a
     font-size: 220%;
     padding-top: 0.40%;
     padding-bottom: 2.90%;
-    letter-spacing: -0.45px;
-    line-height: 60%;
+    letter-spacing: -0.4px;
+    line-height: 64%;
 }
 
 .doubleAutoportrait
@@ -177,27 +179,27 @@ a
 
 .horizontaleDuo
 {
-    width: 55%;
+    width: 53.00%;
 }
 
 .horizontaleSmall
 {
-    width: 45%;
+    width: 43.00%;
 }
 
 .carré
 {
-    width: 50%;
+    width: 48.00%;
 }
 
 .carréDuo
 {
-    width: 30%;
+    width: 28.00%;
 }
 
 .carréTrio
 {
-    width: 28%;
+    width: 26.00%;
 }
 
 @media (max-width: 800px) 
@@ -205,9 +207,10 @@ a
 
 .leoTable
 {
-    font-size: 45%;
+    font-size: 38.25%;
+    letter-spacing: -0.25;
 }
-	
+
 .menu
 {
     margin-right: 2.8%;
@@ -220,7 +223,7 @@ a
 
 .autoportrait
 {
-    width: 52%;
+    width: 50.00%;
     margin-bottom: 0%;
     padding-bottom: 0%;
 }
@@ -233,19 +236,19 @@ a
 img
 {
     border: solid black 1.1px;
-    width: 62%;
-    margin-bottom: 6%;
+    width: 60.50%;
+    margin-bottom: 4.8%;
     padding-bottom: 0%;
 }
 
 .horizontale
 {
-    width: 70%;
+    width: 68.00%;
 }
 
 .horizontaleBig
 {
-    width: 80%;
+    width: 78.00%;
 }
 
 .info
