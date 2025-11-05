@@ -261,6 +261,11 @@ a
 @media (max-width: 800px) 
 {
 
+.serie
+{
+    line-height: 212%;
+}
+
 .leoTable
 {
     font-size: 36%;
@@ -312,7 +317,7 @@ img
 {
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 90%;
+    font-size: 78%;
     padding-bottom: 1.60%;
 }
 
@@ -334,7 +339,7 @@ img
 
 .info1
 {
-    font-size: 95%;
+    font-size: 82%;
     padding-bottom: 1.40%;
 }
 
@@ -367,12 +372,12 @@ footer
 
 .info
 {
-    font-size: 80%;
+    font-size: 70%;
 }
 
 .info1
 {
-    font-size: 85%;
+    font-size: 75%;
 }
 
 .serie {
