@@ -22,7 +22,8 @@
     transition: opacity 0.40s ease;
 }
 
-.preview img {
+.preview img 
+{
     width: 50%;
     box-shadow: 0 0px 20px rgba(255, 255, 255, 1);
     float: right;
@@ -264,6 +265,11 @@ a
 .serie
 {
     line-height: 212%;
+}
+
+.preview img 
+{
+    width: 70%;
 }
 
 .leoTable
