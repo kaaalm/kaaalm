@@ -165,8 +165,9 @@ a
 {
     font-size: 110%;
     text-align: center;
-    padding: 3.10%;
+    padding: 2.65%;
     margin: 0%;
+    padding-right: 0%;
     line-height: 118%;
     letter-spacing: -0.10px;
     padding-top: 0%;
@@ -232,6 +233,8 @@ a
     align-items: center;
     margin-bottom: 0%;
     padding-bottom: 0%;
+    margin-left: 0%;
+    padding-left: 0% ;
 }
 
 .horizontaleDuo
@@ -252,11 +255,6 @@ a
 .carréDuo
 {
     width: 28.00%;
-}
-
-.carréTrio
-{
-    width: 26.00%;
 }
 
 @media (max-width: 800px) 
