@@ -78,8 +78,8 @@ body
     display: flex;
     justify-content: space-between;
     z-index: 1;
-    font-size: 200%;
-    margin-bottom: 1.00%;
+    font-size: 215%;
+    margin-bottom: 0.85%;
 }
 
 .name
