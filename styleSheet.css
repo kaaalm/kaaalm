@@ -3,10 +3,10 @@
 .serie
 {
     font-size: 120%;
-    line-height: 200%;
+    line-height: 215%;
     letter-spacing: 0.00px;
-    padding: 2px;
-    border: 1px solid #BFBFBF;
+    padding: 4px;
+    border: 1.6px solid #8F8F8F;
     border-radius: 3px;
     text-decoration: none;
 }
@@ -138,11 +138,6 @@ img
     width: 72.55%;
 }
 
-.carré
-{
-    width: 28.00%;
-}
-
 .images
 {
     text-align: center;
@@ -163,7 +158,7 @@ a
 
 .bio
 {
-    font-size: 110%;
+    font-size: 116%;
     text-align: center;
     padding: 2.65%;
     margin: 0%;
@@ -180,7 +175,7 @@ a
     line-height: 114%;
     padding-top: 0%;
     padding-bottom: 1.80%;
-    letter-spacing: -0.4px;
+    letter-spacing: -0.40px;
 }
 
 .info1
@@ -190,7 +185,7 @@ a
     font-size: 120%;
     line-height: 156%;
     padding-top: 0%;
-    padding-bottom: 1.2%;
+    padding-bottom: 1.20%;
     letter-spacing: -0.4px;
 }
 
@@ -246,17 +241,17 @@ a
 
 .horizontaleSmall
 {
-    width: 43.00%;
+    width: 46.00%;
 }
 
 .carré
 {
-    width: 48.00%;
+    width: 52.00%;
 }
 
 .carréDuo
 {
-    width: 29.00%;
+    width: 36.00%;
 }
 
 @media (max-width: 920px) 
@@ -264,12 +259,14 @@ a
 
 .serie
 {
-    line-height: 212%;
+    font-size: 95%;
+    letter-spacing: -0.40px;
+    line-height: 235%;
 }
 
 .preview img 
 {
-    width: 70%;
+    width: 68%;
 }
 
 .leoTable
@@ -288,13 +285,6 @@ a
     margin-left: 2.8%;
 }
 
-.autoportrait
-{
-    width: 50.00%;
-    margin-bottom: 0%;
-    padding-bottom: 0%;
-}
-
 .titre
 {
     font-size: 140%;
@@ -304,19 +294,19 @@ a
 img
 {
     border: solid black 1.1px;
-    width: 60.50%;
+    width: 68.00%;
     margin-bottom: 2.05%;
     padding-bottom: 0%;
 }
 
 .horizontale
 {
-    width: 68.00%;
+    width: 72.40%;
 }
 
 .horizontaleBig
 {
-    width: 78.00%;
+    width: 82.40%;
 }
 
 .info
@@ -329,34 +319,34 @@ img
 
 .bio
 {
-    letter-spacing: -0.30px;
+    letter-spacing: -0.12px;
     margin-top: 0%;
     padding-top: 0%;
     margin-left: 5%;
     margin-right: 5%;
-    font-size: 85%;
+    font-size: 72%;
 }
 
 .box
 {
     margin-bottom: 1.60%;
-    font-size: 165%;
+    font-size: 160%;
 }
 
 .info1
 {
-    font-size: 82%;
+    font-size: 88%;
     padding-bottom: 1.40%;
-}
-
-.serie {
-    font-size: 95%;
-    letter-spacing: -0.40px;
 }
 
 footer
 {
     font-size: 110%;
+}
+
+body
+{
+    letter-spacing: -1.4px;
 }
 
 }
@@ -373,7 +363,7 @@ footer
 .box
 {
     margin-bottom: 1.60%;
-    font-size: 145%;
+    font-size: 140%;
 }
 
 .info
@@ -388,11 +378,12 @@ footer
 
 .serie {
     font-size: 85%;
+    line-height: 245%;
 }
 
 .bio
 {
-    font-size: 65%;
+    font-size: 64%;
     letter-spacing: -0.20px;
 }
 
