@@ -209,7 +209,7 @@ a
     font-size: 220%;
     padding-top: 2%;
     padding-bottom: 2.40%;
-    letter-spacing: -0.4px;
+    letter-spacing: -4%;
     line-height: 78%;
 }
 
@@ -287,8 +287,9 @@ a
 
 .titre
 {
-    font-size: 140%;
+    font-size: 130%;
     padding-bottom: 2.00%;
+    letter-spacing: -4%;
 }
 
 img
